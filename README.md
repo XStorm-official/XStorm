@@ -1,7 +1,7 @@
 ### XStorm / Développeur français
 
 - 🔭 Travaille actuellement sur la **V1 - rentabot** un site ou tu peut prendre un hébergement ou louer un bot discord
-- 🌱 J'apprend actuellemet le **TypeScript**
+- 🌱 J'apprend actuellemet le **TypeScript** et le **SCSS**
 - 📫 Comment me contacter : discord ? (xanero_officiel)
 - ⚡ Fun fact : je mange tacos, kebab, mcdo, burger king tous les soirs mais je pèse que 52Kg
 
