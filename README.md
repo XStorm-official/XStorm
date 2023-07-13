@@ -12,8 +12,8 @@
 <img src="https://komarev.com/ghpvc/?username=XStorm-official&label=Profile%20views&color=0e75b6&style=flat" alt="XStorm-official" />
 </p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XStorm-official&show_icons=true&locale=fr&layout=compact" alt="XStorm-official" /></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=XStorm-official&show_icons=true&locale=fr" alt="XStorm-official" /></p><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=XStorm-official&show_icons=true&locale=fr&layout=compact" alt="XStorm-official" /></p><br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=XStorm-official&show_icons=true&locale=fr" alt="XStorm-official" /></p><br>
 
 
 ### Ma journée quotidienne :
