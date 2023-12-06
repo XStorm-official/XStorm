@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis XStorm un développeur français</h1>
 <h3 align="center">J'adore travailler sur plusieurs projets</h3>
 
-- 🔭 Travaille actuellement en SAV pour (ZetHeberge)[https://zetheberge.com]
+- 🔭 Travaille actuellement en SAV pour ZetHeberge lien: https://zetheberge.com
 - 🌱 J'apprend actuellemet le **java** et **C++**
 - 📫 Comment me contacter : discord ? (xstorm_officiel)
 
@@ -26,8 +26,8 @@
       Déjeuner-->Footing;
       Footing-->Cours;
       Cours-->Repas;
-      Repas-->Cours;
-      Cours-->Footing-2;
+      Repas-->Cours-2;
+      Cours-2-->Footing-2;
       Footing-2-->Code;
       Code-->Sav;
       Sav-->Dormir;
