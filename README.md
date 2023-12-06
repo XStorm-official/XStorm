@@ -1,10 +1,9 @@
 <h1 align="center">Salut 👋, Je suis XStorm un développeur français</h1>
 <h3 align="center">J'adore travailler sur plusieurs projets</h3>
 
-- 🔭 Travaille actuellement sur la **V1 - rentabot** un site ou tu peut prendre un hébergement ou louer un bot discord
-- 🌱 J'apprend actuellemet le **TypeScript** et le **SCSS**
-- 📫 Comment me contacter : discord ? (xanero_officiel)
-- ⚡ Fun fact : je mange tacos, kebab, mcdo, burger king tous les soirs mais je pèse que 52Kg
+- 🔭 Travaille actuellement en SAV pour (ZetHeberge)[https://zetheberge.com]
+- 🌱 J'apprend actuellemet le **java** et **C++**
+- 📫 Comment me contacter : discord ? (xstorm_officiel)
 
 ### ⭐ Stats GitHub
 
@@ -25,10 +24,11 @@
   graph TD;
       Dormir-->Déjeuner;
       Déjeuner-->Footing;
-      Footing-->Code;
-      Code-->Repas;
-      Repas-->Jeux;
-      Jeux-->Footing-2;
-      Footing-2-->Code-2;
-      Code-2-->Dormir;
+      Footing-->Cours;
+      Cours-->Repas;
+      Repas-->Cours;
+      Cours-->Footing-2;
+      Footing-2-->Code;
+      Code-->Sav;
+      Sav-->Dormir;
 ```
