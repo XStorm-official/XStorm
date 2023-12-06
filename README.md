@@ -28,7 +28,6 @@
       Cours-->Repas;
       Repas-->Cours-2;
       Cours-2-->Footing-2;
-      Footing-2-->Code;
-      Code-->Sav;
+      Footing-2-->Sav;
       Sav-->Dormir;
 ```
