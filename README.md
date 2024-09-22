@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=XStorm-official&label=Profile%20views&style=flat" alt="XStorm-official" />
 </p><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XStorm-official&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XStorm-official&locale=fr&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api?username=XStorm-official&show_icons=true&locale=fr&theme=dark" alt="XStorm-official" /></p><br>
 
 <h2 align="left">Languages de programmations et logiciels utiliser:</h2>
