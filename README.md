@@ -6,7 +6,6 @@
 </p>
 
 ### 🚀 Actuellement
-- **🔭** En poste de Technicien chez [E-BOT](https://e-bot.fr)
 - **🔭** En poste de Technicien chez [BroCloud](https://brocloud.fr)
 - **🌱** Apprentissage en cours : **Bash**
 
